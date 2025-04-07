@@ -1,5 +1,7 @@
 # DDD_Exercise_TestsUnitarios_Aluguel
 
+# Feito por Bruno Silva Bastos - rm 550416
+
 🚗 Projeto de Aluguel de Veículos
 Este projeto simula o processo de aluguel de veículos em uma locadora, utilizando Java e testes unitários com JUnit.
 
@@ -35,9 +37,7 @@ Cálculo de multa por atraso.
 Casos inválidos: dias igual a 0, valor de diária negativo.
 
 📦 Como Rodar o Projeto
-Clone ou baixe o repositório.
-
-Abra no IntelliJ.
+Abra o projeto no IntelliJ.
 
 Execute a classe Main.java para simular um aluguel.
 
